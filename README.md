@@ -1,2 +1,0 @@
-# IN126052602_Medical_Appointment_System
-Medical Appointment System
